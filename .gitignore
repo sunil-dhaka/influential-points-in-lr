@@ -1,4 +1,14 @@
 # Byte-compiled / optimized / DLL files
+*.aux
+*.snm
+*.fls
+*.log
+*.nav
+*.toc
+*.gz
+*.fdb_latexmk
+*.out
+
 __pycache__/
 *.py[cod]
 *$py.class
